@@ -1,31 +1,76 @@
-<h1 align="center">Hi 👋, I'm Shaurya Tomer</h1>
-<h3 align="center">Asprining Backend Developer</h3>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shaurya!](https://github.com/shauryatomer) 
+<a href="https://www.linkedin.com/in/shaurya-tomer-4686a0225/">
+  <img align="left" alt="Shaurya Tomer - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryatomer" alt="shauryatomer" /></a> </p>
+<a href="mailto:shaurya2043@gmail.com">
+  <img align="left" alt="Shaurya Tomer - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
+</a>
 
-- 🔭 I’m currently working on **implementing Backend design patterns**
+<a href="https://medium.com/@squash2043">
+  <img align="left" alt="Shaurya Tomer - Medium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
 
-- 🌱 I’m currently learning **Python and FastAPI**
+<a href="https://www.leetcode.com/cosmic_boson">
+  <img align="left" alt="Shaurya Tomer - LeetCode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>
+</a>
 
-- 💬 Ask me about **Java, SpringBoot, DSA, Docker**
+<img src="https://komarev.com/ghpvc/?username=shauryatomer" alt="shauryatomer"/>
 
-- 📫 How to reach me **shaurya2043@gmail.com**
+## About Me 🚀
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔭 I’m currently working on implementing backend design patterns.
+- 🌱 Learning Python & FastAPI to diversify backend skillset.
+- 👯 Looking to collaborate on backend-heavy Java or Python projects.
+- 💬 Ask me about Java, SpringBoot, DSA, Docker, and backend best practices.
+- 📫 Reach me: [shaurya2043@gmail.com](mailto:shaurya2043@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shaurya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shaurya_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaurya-tomer-4686a0225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya-tomer-4686a0225" height="30" width="40" /></a>
-<a href="https://medium.com/@squash2043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@squash2043" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cosmic_boson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cosmic_boson" height="30" width="40" /></a>
+## Interests and Goals
+
+- Passionate about scalable backend systems, distributed design & OSS.
+- Interested in Java, Python, backend frameworks and how to create secure systems.
+- Love reading tech blogs & watching tech YouTube.
+
+## **Languages and Tools:**  
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postman/postman.png"></code>
+
+## **Online Profile Links:**
+
+- LinkedIn - [shaurya-tomer](https://www.linkedin.com/in/shaurya-tomer-4686a0225/)
+- Medium - [@squash2043](https://medium.com/@squash2043)
+- Leetcode - [cosmic_boson](https://leetcode.com/cosmic_boson)
+
+## 📈 Statistics
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shauryatomer&theme=darkhub">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryatomer&theme=merko">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shauryatomer&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true" width="100%"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryatomer&theme=chartreuse-dark&layout=compact&hide=Jupyter%20Notebook" height="190"></td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauryatomer&show_icons=true&locale=en&layout=compact" alt="shauryatomer" /></p>
+Cheers,<br />
+Shaurya<br />
+[GitHub Profile](https://github.com/shauryatomer)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauryatomer&show_icons=true&locale=en" alt="shauryatomer" /></p>
+<div align="center">
+
+### Show some ❤️ by starring a few of my repositories!
+
+</div>
