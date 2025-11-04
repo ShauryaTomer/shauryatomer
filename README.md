@@ -7,7 +7,7 @@
   <img align="left" alt="Shaurya Tomer - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 
-<a href="https://medium.com/@squash2043">
+<a href="https://medium.com/@shauryatomer10">
   <img align="left" alt="Shaurya Tomer - Medium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 
